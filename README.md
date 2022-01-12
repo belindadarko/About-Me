@@ -7,4 +7,4 @@
 - 🌱 I’m currently learning SQL and R
 - 💞️ In my free time I love to paint, sing and work on events for the Hult African Business Club to find solutions to improve economic development on the continent
 - 📫 You can reach me on:<br>
-- E-mail:   belindarko@gmail.com<br>
+E-mail:   belindarko@gmail.com<br>
